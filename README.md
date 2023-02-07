@@ -9,12 +9,12 @@ Republic of Korea.
 
 -   🌱 I am highly interested in Web development, specially in Backend Engineering, and API Design.
 -   👨🏽‍💻 I'm currently started learning Spring/Spring boot, JPA, Hibernate and Java relevant technologies.
--   I'm currently interested in Test-driven development. So I'm working on some existing projects to practice adding tests
+-   💻 I'm currently interested in Test-driven development. So I'm working on some existing projects to practice adding tests
     to it.
 -   😊 I’m currently open for a new job opportunity.
--   All of my works and learning notes are available
+-   📄 All of my works and learning notes are available
     in my Github account.
--   Contact me via **12a9fly@gmail.com** or [My Twitter](https://twitter.com/TKNguyen12a9)
+-   ✉️ Contact me via **12a9fly@gmail.com** or [My Twitter](https://twitter.com/TKNguyen12a9)
 
 ## Languages and Tools
 
