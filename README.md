@@ -1,6 +1,6 @@
 ## Hello 🖐️
 
-My name is Kien, I'm a graduated student from Computer Science and Engineering dept at Kwangwoon University,
+My name is Kien, I'm a graduated student from Computer Science and Engineering Dept at Kwangwoon University,
 Republic of Korea.
 
 ## About me 😊
