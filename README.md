@@ -20,32 +20,32 @@ Republic of Korea.
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 <p align="left"> 
-      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+      <a href="#" target="_blank" rel="noreferrer">
         <img src="https://th.bing.com/th/id/OIP.jhAjmb8vKqYFD97PVekRfQHaHa?w=174&h=180&c=7&r=0&o=5&pid=1.7"
       alt="c-sharp" width="40" height="40" /> </a> 
-   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
+   <a href="#" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
       height="40" /> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
+    <a href="#" target="_blank"
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript" width="40" height="40" /> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
     <img src="https://sdtimes.com/wp-content/uploads/2016/08/0831.sdt-typescript.jpeg" alt="kotlin" width="40" height="40" />
   </a>
       <br><br>
-    <a href="https://www.cprogramming.com/" target="_blank"
+    <a href="#" target="_blank"
     rel="dotnetcore"> <img src="https://th.bing.com/th/id/OIP.2jOYMim7RdeyGWJXu4dU2wHaHa?w=171&h=180&c=7&r=0&o=5&pid=1.7"
       alt="c" width="40" height="40" /> 
       </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"
+    <a href="#" target="_blank"
         rel="noreferrer"> <img
       src="https://th.bing.com/th/id/OIP.0T_CaH2TNe3dTcI8zYyLjgHaHa?w=171&h=180&c=7&r=0&o=5&pid=1.7" alt="css3"
       width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
       </a> 
-      <a href="" target="_blank" rel="postgresql">
+      <a href="#" target="_blank" rel="postgresql">
     <img src="https://th.bing.com/th/id/OIP.4VzzmmBTwq5OdNUPfRB8yAHaIO?w=148&h=180&c=7&r=0&o=5&pid=1.7"
       alt="postgresql" width="40" height="40" /> </a> 
-       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+       <a href="#" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql" width="40" height="40" /> </a> 
       </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
@@ -55,15 +55,15 @@ Republic of Korea.
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> </a>
       <br><br>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+    <a href="#" target="_blank" rel="noreferrer"> <img
       src="https://th.bing.com/th/id/OIP.Vbbgb1GWEFgbuO4vbaqcxgHaEd?w=297&h=180&c=7&r=0&o=5&pid=1.7"
       alt="react" width="40" height="40" /> </a>
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+        <a href="#" target="_blank" rel="noreferrer"> <img
     src="https://th.bing.com/th/id/OIP.dEgEQ0JBlwn323Q_i0spsgHaEK?w=261&h=180&c=7&r=0&o=5&pid=1.7"
       alt="react" width="40" height="40" /> </a>
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+        <a href="#" target="_blank" rel="noreferrer"> <img
       src="https://th.bing.com/th/id/OIP.bNuFRHFXJW59ycKQjyvY_AHaIx?w=145&h=180&c=7&r=0&o=5&pid=1.7"
       alt="react" width="40" height="40" /> </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.beox4LtTorESTs9OdNSUWAHaHa?w=180&h=180&c=7&r=0&o=5&pid=1.7"
+    <a href="#" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.beox4LtTorESTs9OdNSUWAHaHa?w=180&h=180&c=7&r=0&o=5&pid=1.7"
       alt="windows" width="40" height="40" /> </a>
 <br>
