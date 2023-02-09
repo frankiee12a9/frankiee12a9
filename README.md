@@ -14,7 +14,7 @@ Republic of Korea.
 -   😊 I’m currently open for a new job opportunity.
 -   📄 All of my works and learning notes are available
     in my Github account.
--   ✉️ Contact me via **12a9fly@gmail.com** or [My Twitter](https://twitter.com/TKNguyen12a9)
+-   ✉️ You can reach me via **12a9fly@gmail.com** or [My Twitter](https://twitter.com/TKNguyen12a9)
 
 ## My Tech-stacks ⚡
 
